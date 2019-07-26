@@ -1,0 +1,10 @@
+F:\GIT\Area of a Circle\Area of a Circle\bin\Debug\netcoreapp2.2\Area of a Circle.deps.json
+F:\GIT\Area of a Circle\Area of a Circle\bin\Debug\netcoreapp2.2\Area of a Circle.runtimeconfig.json
+F:\GIT\Area of a Circle\Area of a Circle\bin\Debug\netcoreapp2.2\Area of a Circle.runtimeconfig.dev.json
+F:\GIT\Area of a Circle\Area of a Circle\bin\Debug\netcoreapp2.2\Area of a Circle.dll
+F:\GIT\Area of a Circle\Area of a Circle\bin\Debug\netcoreapp2.2\Area of a Circle.pdb
+F:\GIT\Area of a Circle\Area of a Circle\obj\Debug\netcoreapp2.2\Area of a Circle.csproj.CoreCompileInputs.cache
+F:\GIT\Area of a Circle\Area of a Circle\obj\Debug\netcoreapp2.2\Area of a Circle.AssemblyInfoInputs.cache
+F:\GIT\Area of a Circle\Area of a Circle\obj\Debug\netcoreapp2.2\Area of a Circle.AssemblyInfo.cs
+F:\GIT\Area of a Circle\Area of a Circle\obj\Debug\netcoreapp2.2\Area of a Circle.dll
+F:\GIT\Area of a Circle\Area of a Circle\obj\Debug\netcoreapp2.2\Area of a Circle.pdb
